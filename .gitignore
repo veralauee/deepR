@@ -1,0 +1,12 @@
+
+.DS_Store
+build
+.git
+*.egg-info
+dist
+yolo/output
+yolo/data/coco
+yolo/backup
+yolo/weights/*.weights
+__pycache__
+yolo/checkpoints
