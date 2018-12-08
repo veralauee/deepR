@@ -1,8 +1,8 @@
 # deepR
 recognize objects in dark scenes
 
-# train deepR
+1. train deepR
 python train_deepR.py
 
-# test deepR
+2. test deepR
 python test_deepR.py
